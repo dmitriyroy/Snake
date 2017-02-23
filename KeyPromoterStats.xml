@@ -13,7 +13,7 @@
         <entry key="'Ctrl+Alt+L'" value="1" />
         <entry key="'Ctrl+Alt+Shift+H'" value="1" />
         <entry key="'Ctrl+Alt+Shift+S'" value="2" />
-        <entry key="'Ctrl+F2'" value="122" />
+        <entry key="'Ctrl+F2'" value="123" />
         <entry key="'Ctrl+F9'" value="1" />
         <entry key="'Ctrl+K'" value="4" />
         <entry key="'Ctrl+NumPad +' or 'Ctrl+Equals'" value="1" />
@@ -27,7 +27,7 @@
         <entry key="'F8'" value="279" />
         <entry key="'Shift+F10'" value="17" />
         <entry key="'Shift+F8'" value="26" />
-        <entry key="'Shift+F9'" value="21" />
+        <entry key="'Shift+F9'" value="23" />
       </map>
     </option>
   </component>
