@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/dmitriyroy/JavaCodeParser.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/codenjoyme/codenjoy-builder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Data/Java/Juja/PairProgramming" />
+    <option name="cloneParentDir" value="$USER_HOME$/Data/Java/Juja/Codenjoy" />
   </component>
 </application>
